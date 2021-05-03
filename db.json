@@ -39,71 +39,7 @@
             "publishedAt": "2021-04-23T17:58:10Z",
             "content": "Cryptocurrency prices continued to tumble Friday with Bitcoin leading the charge, with prices for the internet currency dipping below $50,000 for the first time since early March.\r\nBitcoin is down ro… [+1222 chars]"
         },
-        {
-            "source": {
-                "id": "techcrunch",
-                "name": "TechCrunch"
-            },
-            "author": "Tage Kene-Okafor",
-            "title": "African crypto usage spurs Luno as customers reach 7M",
-            "description": "The crypto industry as a whole has seen a momentous year of growth, heavily spurred on by the entrance of institutional investors adopting bitcoin due to its store of value properties. The 2020 spike bitcoin experienced was also accelerated by its global adop…",
-            "url": "http://techcrunch.com/2021/04/13/african-crypto-usage-spurs-luno-as-customers-reach-7m/",
-            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/07/GettyImages-887657568.jpg?w=600",
-            "publishedAt": "2021-04-13T08:30:21Z",
-            "content": "The crypto industry as a whole has seen a momentous year of growth, heavily spurred on by the entrance of institutional investors adopting bitcoin due to its store of value properties. The 2020 spike… [+4675 chars]"
-        },
-        {
-            "source": {
-                "id": "bbc-news",
-                "name": "BBC News"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "Tesla: Bitcoin sales, environmental credits boost profits",
-            "description": "But the carmaker's profits were dented by a $299m payment to Tesla boss Elon Musk.",
-            "url": "https://www.bbc.co.uk/news/business-56897457",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13E5E/production/_118220518_gettyimages-1228322928.jpg",
-            "publishedAt": "2021-04-27T04:22:49Z",
-            "content": "image copyrightGetty Images\r\nimage captionElon Musk's Tesla has seen a jump in profits\r\nTesla has posted first quarter profits of $438m (£315m) bolstered by sales of Bitcoin and environmental credits… [+2702 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Brian Kahn",
-            "title": "Jack and Elon Are Promoting Bitcoin on Earth Day for Some Reason (It Makes Them Richer)",
-            "description": "Earth Day is prime time for brands and people to promote their pre-existing products to the masses, swaddled up in a green package. So perhaps it’s no surprise that area shaman Jack Dorsey and meme enthusiast Elon Musk are pumping bitcoin, a cryptocurrency bo…",
-            "url": "https://earther.gizmodo.com/jack-and-elon-are-promoting-bitcoin-on-earth-day-for-so-1846742228",
-            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/qc8vtxtafpa33fn4xpxo.jpg",
-            "publishedAt": "2021-04-22T20:29:00Z",
-            "content": "Earth Day is prime time for brands and people to promote their pre-existing products to the masses, swaddled up in a green package. So perhaps its no surprise that area shaman Jack Dorsey and meme en… [+4711 chars]"
-        },
-        {
-            "source": {
-                "id": "mashable",
-                "name": "Mashable"
-            },
-            "author": "Stan Schroeder",
-            "title": "Venmo now lets users buy and sell Bitcoin and Ethereum",
-            "description": "Venmo is jumping aboard the cryptocurrency bandwagon. \nThe social payment service announced on Tuesday that its customers can now buy, hold, and sell cryptocurrencies within the Venmo app. \nFour cryptocurrencies are currently supported: Bitcoin, Ethereum, Lit…",
-            "url": "https://mashable.com/article/venmo-crypto/",
-            "urlToImage": "https://mondrian.mashable.com/2021%252F04%252F20%252F25%252F7a02027586334a4d9d29757c0a859526.96c21.jpg%252F1200x630.jpg?signature=I7wBwCsXyeLkGNdX3wFvzAV_v7o=",
-            "publishedAt": "2021-04-20T11:23:13Z",
-            "content": "Venmo is jumping aboard the cryptocurrency bandwagon. \r\nThe social payment service announced on Tuesday that its customers can now buy, hold, and sell cryptocurrencies within the Venmo app. \r\nFour cr… [+1524 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Paul R. La Monica, CNN Business",
-            "title": "Move over, Bitcoin. Ethereum is at an all-time high",
-            "description": "Bitcoin prices continued their rebound Saturday, rising about 6% to nearly $58,000. But the world's largest cryptocurrency has been overshadowed lately by its younger sibling, Ethereum.",
-            "url": "https://www.cnn.com/2021/05/01/investing/ethereum-bitcoin-record-high/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210501095348-restricted-file-ethereum-2020-super-tease.jpg",
-            "publishedAt": "2021-05-01T17:24:45Z",
-            "content": "New York (CNN Business)Bitcoin prices continued their rebound Saturday, rising about 6% to nearly $58,000. But the world's largest cryptocurrency has been overshadowed lately by its younger sibling, … [+866 chars]"
-        },
+        
         {
             "source": {
                 "id": "techcrunch",
