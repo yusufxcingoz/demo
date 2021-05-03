@@ -1,14 +1,29 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "articles": [
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Rebecca Bellan",
+            "title": "Tesla sees bitcoin as important financial tool to access cash quickly",
+            "description": "Tesla’s relationship with bitcoin is not a dalliance, according to the comments made by the company’s CFO and dubbed “master of coin” Zach Kirkhorn during an earnings call Monday. Instead, the company believes in the longevity of bitcoin, despite its volatili…",
+            "url": "http://techcrunch.com/2021/04/26/tesla-sees-bitcoin-as-important-financial-tool-to-access-cash-quickly/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/02/tesla-bitcoin-alt.jpg?w=711",
+            "publishedAt": "2021-04-27T01:36:46Z",
+            "content": "Tesla’s relationship with bitcoin is not a dalliance, according to the comments made by the company’s CFO and dubbed “master of coin” Zach Kirkhorn during an earnings call Monday. Instead, the compan… [+3073 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Lifehacker.com"
+            },
+            "author": "Mike Winters",
+            "title": "You Can Now Exchange Crypto on Venmo, If You're Into That Sort of Thing",
+            "description": "Cryptocurrency continues to gain mainstream acceptance, as PayPal announced that they have added Bitcoin, Ethereum, Bitcoin Cash, and Litecoin to its Venmo app. With a user base of 70 million, the move will certainly make it easier for people to buy crypto—bu…",
+            "url": "https://twocents.lifehacker.com/you-can-now-exchange-crypto-on-venmo-if-youre-into-tha-1846724048",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/a1qhbu5l9fnqmien6giu.jpg",
+            "publishedAt": "2021-04-20T19:00:00Z",
+            "content": "Cryptocurrency continues to gain mainstream acceptance, as PayPal announced that they have added Bitcoin, Ethereum, Bitcoin Cash, and Litecoin to its Venmo app. With a user base of 70 million, the mo… [+2782 chars]"
+        },
 }
