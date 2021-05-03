@@ -1,32 +1,14 @@
 {
-    "articles": [
-        
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Reuters Staff",
-            "title": "Tesla records $27 mln in impairment losses on bitcoin investment - Reuters",
-            "description": "Tesla records $27 mln in impairment losses on bitcoin investment  Reuters",
-            "url": "https://www.reuters.com/article/us-crypto-currency-tesla-idUSKBN2CF1BG",
-            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20210428&t=2&i=1560202159&r=LYNXMPEH3R0MC&w=800",
-            "publishedAt": "2021-04-28T10:27:00Z",
-            "content": "By Reuters Staff\r\nFILE PHOTO: A Tesla supercharger is shown at a charging station in Santa Clarita, California, U.S. October 2, 2019. REUTERS/Mike Blake\r\n(Reuters) - Tesla Inc recorded $27 million of… [+114 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Reuters Staff",
-            "title": "Bitcoin falls 7.7% to $55,408 - Reuters",
-            "description": "Bitcoin, the world's biggest and best-known cryptocurrency, dropped 7.7% to $55,408.08 on Sunday, losing $4,624.21 from its previous close.",
-            "url": "https://www.reuters.com/article/crypto-currency-bitcoin-idUSFWN2MA0B7",
-            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
-            "publishedAt": "2021-04-18T04:13:00Z",
-            "content": "By Reuters Staff\r\nApril 18 (Reuters) - Bitcoin, the worlds biggest and best-known cryptocurrency, dropped 7.7% to $55,408.08 on Sunday, losing $4,624.21 from its previous close.\r\nEther, the coin link… [+189 chars]"
-        },
-        
-    ]
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
